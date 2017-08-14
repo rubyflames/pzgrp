@@ -487,7 +487,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url(../img/about-me.jpg) left top no-repeat;
+  background: url(../img/about-me.jpg) left bottom no-repeat;
 }
 
 #about .about-content {
